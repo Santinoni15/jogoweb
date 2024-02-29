@@ -5,7 +5,7 @@ Lista de Integrantes da Equipe:
 - Gabriel De Oliveira Rodrigues [@gabrieldorodrigues](https://github.com/gabrieldorodrigues)
 - Janaina Carlos João [@janainacarlos](https://github.com/janainacarlos)
 - Ana Júlia Santinoni [@Santinoni15](https://github.com/Santinoni15)
-- Victor Galato Santa Rosa
+- Victor Galato Santa Rosa [@VicGalato](https://github.com/VicGalato)
 
 ## Descrição do Projeto: 
 O projeto consiste no desenvolvimento de um jogo de aprendizado de vocabulário em inglês, que utiliza imagens de objetos para desafiar os jogadores a escolherem a palavra correta correspondente em inglês. O jogo será dividido em três fases de dificuldade, proporcionando uma experiência gradual de aprendizado. Além disso, os jogadores poderão competir online, e subir de ranking.
