@@ -23,9 +23,9 @@ O público-alvo principal do projeto são crianças do ensino fundamental, embor
 TBD
 
 ## Características/Diferenciais Importantes do Projeto: 
--Experiência de aprendizado gradual com três níveis de dificuldade.
--Componente competitivo que permite aos jogadores acumularem pontos, subirem de ranking e competirem online.
--Perfis de jogador personalizados que permitem aos usuários acompanhar seu progresso e interagir com amigos.
--Integração com redes sociais para compartilhamento de resultados e engajamento com a comunidade.
--Variedade de categorias de vocabulário, incluindo números, animais, frutas, cores e roupas, para atender às preferências individuais dos jogadores.
--Utilização de imagens de objetos para tornar o aprendizado visualmente estimulante e facilitar a associação entre palavras e significados.
+- Experiência de aprendizado gradual com três níveis de dificuldade.
+- Componente competitivo que permite aos jogadores acumularem pontos, subirem de ranking e competirem online.
+- Perfis de jogador personalizados que permitem aos usuários acompanhar seu progresso e interagir com amigos.
+- Integração com redes sociais para compartilhamento de resultados e engajamento com a comunidade.
+- Variedade de categorias de vocabulário, incluindo números, animais, frutas, cores e roupas, para atender às preferências individuais dos jogadores.
+- Utilização de imagens de objetos para tornar o aprendizado visualmente estimulante e facilitar a associação entre palavras e significados.
