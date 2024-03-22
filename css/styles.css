@@ -1,0 +1,54 @@
+/* Reset de estilos */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #DA70D6;
+    color: #FFFFF0; /* Cor do texto */
+}
+
+header { /*Guess what??*/
+    font-family: Snell Roundhand;
+    font-style:italic;
+    font-size: 23px;
+    margin:50px;
+    background-color: purple;
+    color: #fff;
+    padding: 20px; /*tamanho do contorno*/
+    text-align: center;
+    border-radius: 40px; /*arredonda*/
+}
+
+main {
+    padding: 20px;
+    border: 30px;
+}
+
+section {
+    margin-bottom: 20px;
+    text-align: center; /* centraliza */
+}
+
+section h2 {
+    margin-bottom: 10px; /*  espaço dps do título */
+}
+
+footer {
+    color: #fff;
+    text-align: center;
+    background-color: #FFC0CB;
+    padding: 10px 10px;
+    position: fixed;
+    bottom: 0;
+    border-top: 2px solid #666;
+
+}
+  footer p {
+    font-weight: bold;
+    font-size: 12px;
+}
