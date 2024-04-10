@@ -20,7 +20,7 @@ O projeto será estruturado em um jogo que estará disponível somente para nave
 O público-alvo principal do projeto são crianças do ensino fundamental, embora o jogo possa ser acessado por qualquer pessoa interessada em expandir seu vocabulário em inglês de uma maneira divertida e competitiva. 
 
 ## Tecnologias, Bibliotecas e Frameworks: 
-TBD
+[NextJS](https://nextjs.org/), [Clerk](https://clerk.com/),[Shadcn](https://ui.shadcn.com)
 
 ## Características/Diferenciais Importantes do Projeto: 
 - Experiência de aprendizado gradual com três níveis de dificuldade.
