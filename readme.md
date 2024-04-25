@@ -3,7 +3,7 @@ Nome/Título do Projeto: placeholder - Jogo Educativo: Língua Inglesa
 
 Lista de Integrantes da Equipe: 
 - Gabriel De Oliveira Rodrigues [@gabrieldorodrigues](https://github.com/gabrieldorodrigues)
-- Ana Júlia Santinoni [@Santinoni15](https://github.com/Santinoni15)
+- Ana Júlia Santinoni [@anasantinoni](https://github.com/anasantinoni)
 - Janaina Carlos João [@janainacarlos](https://github.com/janainacarlos)
 - Victor Galato Santa Rosa [@VicGalato](https://github.com/VicGalato)
 
